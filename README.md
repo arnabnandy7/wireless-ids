@@ -24,7 +24,10 @@ Newly Added !!!!
 * Allow disabling of displaying of probing devices
 * Setting of scanning count..
 
-<!-- GitAds-Verify: 3IZ6T4REUWW8EYBWVIK9CMIVPN9CZBVE -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/wireless-ids@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/wireless-ids@github)
+
+
 Visit and Like [my Facebook Page](https://www.facebook.com/syworks) for other updated information and tools.
 
 Read Wiki for installation and other details (https://github.com/SYWorks/wireless-ids/wiki)
